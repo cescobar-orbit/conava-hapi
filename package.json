@@ -1,0 +1,20 @@
+{
+  "name": "conava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@cescobar_it, @zgudino, @bradley.suira",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.0.1",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^4.0.0",
+    "hapi": "^13.5.2",
+    "hapi-auth-jwt2": "^7.0.1",
+    "hapi-mongo-models": "^4.2.0",
+    "mongodb": "^2.2.5"
+  }
+}
